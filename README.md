@@ -244,12 +244,10 @@ echo "Login gagal (secure). <a href='index.php'>Kembali</a>";
 
 ---
 # Hasil asesmen
-<img width="1920" height="1080" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/c9e7c717-d678-420b-9c27-6b4aa473a6d0" />
-<img width="1920" height="1080" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/93c91a1b-ac9d-4daa-be24-3df93c2ef34a" />
-<img width="1920" height="1080" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/c9d0b93f-bfa4-4d28-b923-79cd3438e520" />
-<img width="1920" height="1080" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/29855eba-f327-494e-ac75-29f1c9f97ec6" />
-<img width="1920" height="1080" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/5b3ec6fb-af90-4f1b-b78a-b17b992a3f13" />
+[TugasCS_Cristianari.pdf](https://github.com/user-attachments/files/24488148/TugasCS_Cristianari.pdf)
 
-report hotedscand : [owasp zap hostedscan report.pdf iyoo.pdf](https://github.com/user-attachments/files/24487436/owasp.zap.hostedscan.report.pdf.iyoo.pdf)
+
+report hotedscand : [owasp zap hostedscan report.pdf Cristian.pdf](https://github.com/user-attachments/files/24488161/owasp.zap.hostedscan.report.pdf.Cristian.pdf)
+
 
 
